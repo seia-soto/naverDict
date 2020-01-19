@@ -1,0 +1,25 @@
+{
+  "name": "naverdict",
+  "description": "Unofficial naver dictionary API via DOM parsing.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Seia-Soto/naverDict.git"
+  },
+  "author": "Seia-Soto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Seia-Soto/naverDict/issues"
+  },
+  "homepage": "https://github.com/Seia-Soto/naverDict#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.3",
+    "debug": "^4.1.1",
+    "request": "^2.88.0"
+  },
+  "devDependencies": {}
+}
